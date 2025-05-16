@@ -5,5 +5,8 @@ git commit -m
 git log
 git rm --cache
 git restore 
-
+git log --oneline
+git log --oneline --pretty
+git config global user.name
+git config global user.email "mnulghani@gmail.com"
 
