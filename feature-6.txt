@@ -1,3 +1,11 @@
 
+<<<<<<< HEAD
 This is feature 6 
 This feature is added by Nadeem
+=======
+This is feature 6 added
+
+
+under the development by MN
+
+>>>>>>> 540f337 (Added changed by MN)
